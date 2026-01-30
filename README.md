@@ -1,4 +1,4 @@
-<img width="1600" height="491" alt="Picsart_25-09-13_11-58-12-937" src="https://github.com/user-attachments/assets/29a6ed49-2986-4ecf-8826-bebf6db0aaac" />
+<img width="1600" height="414" alt="Picsart_26-01-30_00-04-03-352" src="https://github.com/user-attachments/assets/dff97b96-8c3c-46f4-b158-18f12d886ae3" />
 
 # Jonfield's Korone Apks
 [<img width="1024" height="280" alt="download-12-5-2025" src="https://github.com/user-attachments/assets/b4efbd14-3b37-4881-94b3-48c8f5541155" />](https://github.com/LittleBigDevs/Jonfield-Korone-Apks/releases/tag/release)
