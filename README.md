@@ -36,8 +36,8 @@ https://github.com/user-attachments/assets/8f937e26-7dda-4b3a-9b14-43fa3e97fb78
 
 * [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
 
- ## NullPointerExceptionBruh's apks
- https://github.com/NullPointerExceptionBruh/Pekora-Unofficial-Clients
+ ## My alt link
+ https://github.com/imjonfield/Pekora-Unofficial-Clients
  
 # Images
  
